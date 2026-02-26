@@ -1,0 +1,602 @@
+"ccode","session","IdealPoint","NVotes","Countryname","year","issue","country_label","is_asean"
+2,22,2.426986,57,"United States",1967,"All","United States",FALSE
+2,23,2.295532,51,"United States",1968,"All","United States",FALSE
+2,24,2.119463,43,"United States",1969,"All","United States",FALSE
+2,25,2.171009,67,"United States",1970,"All","United States",FALSE
+2,26,1.767618,119,"United States",1971,"All","United States",FALSE
+2,27,2.135975,100,"United States",1972,"All","United States",FALSE
+2,28,2.195541,91,"United States",1973,"All","United States",FALSE
+2,29,2.077391,73,"United States",1974,"All","United States",FALSE
+2,30,2.360075,69,"United States",1975,"All","United States",FALSE
+2,31,2.750583,85,"United States",1976,"All","United States",FALSE
+2,32,2.313392,90,"United States",1977,"All","United States",FALSE
+2,33,2.295686,124,"United States",1978,"All","United States",FALSE
+2,34,2.354093,121,"United States",1979,"All","United States",FALSE
+2,35,2.450686,103,"United States",1980,"All","United States",FALSE
+2,36,2.767644,133,"United States",1981,"All","United States",FALSE
+2,37,2.654563,158,"United States",1982,"All","United States",FALSE
+2,38,2.653316,149,"United States",1983,"All","United States",FALSE
+2,39,2.84451,151,"United States",1984,"All","United States",FALSE
+2,40,2.85444,152,"United States",1985,"All","United States",FALSE
+2,41,2.985282,151,"United States",1986,"All","United States",FALSE
+2,42,3.070334,140,"United States",1987,"All","United States",FALSE
+2,43,3.068073,133,"United States",1988,"All","United States",FALSE
+2,44,3.15064,114,"United States",1989,"All","United States",FALSE
+2,45,3.06766,84,"United States",1990,"All","United States",FALSE
+2,46,2.977167,72,"United States",1991,"All","United States",FALSE
+2,47,3.000798,73,"United States",1992,"All","United States",FALSE
+2,48,2.955602,64,"United States",1993,"All","United States",FALSE
+2,49,3.009216,68,"United States",1994,"All","United States",FALSE
+2,50,3.130082,81,"United States",1995,"All","United States",FALSE
+2,51,3.14783,74,"United States",1996,"All","United States",FALSE
+2,52,2.983911,72,"United States",1997,"All","United States",FALSE
+2,53,2.814332,64,"United States",1998,"All","United States",FALSE
+2,54,2.681448,68,"United States",1999,"All","United States",FALSE
+2,55,2.664088,67,"United States",2000,"All","United States",FALSE
+2,56,2.655105,69,"United States",2001,"All","United States",FALSE
+2,57,2.733395,75,"United States",2002,"All","United States",FALSE
+2,58,2.902368,76,"United States",2003,"All","United States",FALSE
+2,59,2.819677,72,"United States",2004,"All","United States",FALSE
+2,60,2.889729,74,"United States",2005,"All","United States",FALSE
+2,61,2.81137,92,"United States",2006,"All","United States",FALSE
+2,62,2.743266,79,"United States",2007,"All","United States",FALSE
+2,63,2.737774,76,"United States",2008,"All","United States",FALSE
+2,64,2.54631,68,"United States",2009,"All","United States",FALSE
+2,65,2.519054,67,"United States",2010,"All","United States",FALSE
+2,66,2.496376,68,"United States",2011,"All","United States",FALSE
+2,67,2.58958,69,"United States",2012,"All","United States",FALSE
+2,68,2.676666,64,"United States",2013,"All","United States",FALSE
+2,69,2.668466,79,"United States",2014,"All","United States",FALSE
+2,70,2.592322,73,"United States",2015,"All","United States",FALSE
+2,71,2.53694,78,"United States",2016,"All","United States",FALSE
+2,72,2.680102,90,"United States",2017,"All","United States",FALSE
+2,73,2.786768,95,"United States",2018,"All","United States",FALSE
+2,74,2.694793,91,"United States",2019,"All","United States",FALSE
+710,26,-0.9760724,48,"China",1971,"All","China",FALSE
+710,27,-0.7156992,77,"China",1972,"All","China",FALSE
+710,28,-0.5740909,71,"China",1973,"All","China",FALSE
+710,29,-0.8566171,55,"China",1974,"All","China",FALSE
+710,30,-0.2756341,48,"China",1975,"All","China",FALSE
+710,31,-1.053044,69,"China",1976,"All","China",FALSE
+710,32,-0.8193988,63,"China",1977,"All","China",FALSE
+710,33,-0.2469549,87,"China",1978,"All","China",FALSE
+710,34,-0.05311142,99,"China",1979,"All","China",FALSE
+710,35,-0.03347984,86,"China",1980,"All","China",FALSE
+710,36,-0.02059494,117,"China",1981,"All","China",FALSE
+710,37,0.1867089,141,"China",1982,"All","China",FALSE
+710,38,0.1706566,136,"China",1983,"All","China",FALSE
+710,39,0.1715943,147,"China",1984,"All","China",FALSE
+710,40,0.1814985,150,"China",1985,"All","China",FALSE
+710,41,0.1866047,150,"China",1986,"All","China",FALSE
+710,42,0.1958159,138,"China",1987,"All","China",FALSE
+710,43,-0.02298023,128,"China",1988,"All","China",FALSE
+710,44,-0.07522176,112,"China",1989,"All","China",FALSE
+710,45,-0.1670653,84,"China",1990,"All","China",FALSE
+710,46,-0.3023714,70,"China",1991,"All","China",FALSE
+710,47,-0.7356746,70,"China",1992,"All","China",FALSE
+710,48,-1.396082,62,"China",1993,"All","China",FALSE
+710,49,-1.634709,66,"China",1994,"All","China",FALSE
+710,50,-1.502986,78,"China",1995,"All","China",FALSE
+710,51,-1.268106,74,"China",1996,"All","China",FALSE
+710,52,-1.145413,71,"China",1997,"All","China",FALSE
+710,53,-0.4421162,62,"China",1998,"All","China",FALSE
+710,54,-0.6680064,68,"China",1999,"All","China",FALSE
+710,55,-0.7359335,67,"China",2000,"All","China",FALSE
+710,56,-0.5852949,68,"China",2001,"All","China",FALSE
+710,57,-0.5386405,72,"China",2002,"All","China",FALSE
+710,58,-0.9454819,75,"China",2003,"All","China",FALSE
+710,59,-0.8424348,71,"China",2004,"All","China",FALSE
+710,60,-0.7408335,74,"China",2005,"All","China",FALSE
+710,61,-0.8690618,90,"China",2006,"All","China",FALSE
+710,62,-0.6327519,78,"China",2007,"All","China",FALSE
+710,63,-0.6557925,74,"China",2008,"All","China",FALSE
+710,64,-0.6256859,68,"China",2009,"All","China",FALSE
+710,65,-0.8585649,67,"China",2010,"All","China",FALSE
+710,66,-0.7636184,68,"China",2011,"All","China",FALSE
+710,67,-0.8569092,67,"China",2012,"All","China",FALSE
+710,68,-0.5181141,64,"China",2013,"All","China",FALSE
+710,69,-0.8420048,78,"China",2014,"All","China",FALSE
+710,70,-0.2594838,72,"China",2015,"All","China",FALSE
+710,71,-0.4501334,77,"China",2016,"All","China",FALSE
+710,72,-0.3777864,90,"China",2017,"All","China",FALSE
+710,73,-0.4894719,93,"China",2018,"All","China",FALSE
+710,74,-0.3336454,89,"China",2019,"All","China",FALSE
+775,22,-0.3535548,55,"Myanmar (Burma)",1967,"All","Myanmar",TRUE
+775,23,-0.3450435,42,"Myanmar (Burma)",1968,"All","Myanmar",TRUE
+775,24,-0.1445155,43,"Myanmar (Burma)",1969,"All","Myanmar",TRUE
+775,25,0.1355665,62,"Myanmar (Burma)",1970,"All","Myanmar",TRUE
+775,26,-0.2501292,117,"Myanmar (Burma)",1971,"All","Myanmar",TRUE
+775,27,-0.1410814,101,"Myanmar (Burma)",1972,"All","Myanmar",TRUE
+775,28,0.000241577,91,"Myanmar (Burma)",1973,"All","Myanmar",TRUE
+775,29,0.07224641,72,"Myanmar (Burma)",1974,"All","Myanmar",TRUE
+775,30,-0.03548996,66,"Myanmar (Burma)",1975,"All","Myanmar",TRUE
+775,31,-0.3278739,77,"Myanmar (Burma)",1976,"All","Myanmar",TRUE
+775,32,-0.467575,91,"Myanmar (Burma)",1977,"All","Myanmar",TRUE
+775,33,0.1442879,127,"Myanmar (Burma)",1978,"All","Myanmar",TRUE
+775,34,0.3520118,122,"Myanmar (Burma)",1979,"All","Myanmar",TRUE
+775,35,0.39358,103,"Myanmar (Burma)",1980,"All","Myanmar",TRUE
+775,36,0.2758482,127,"Myanmar (Burma)",1981,"All","Myanmar",TRUE
+775,37,0.3025197,150,"Myanmar (Burma)",1982,"All","Myanmar",TRUE
+775,38,0.1736854,141,"Myanmar (Burma)",1983,"All","Myanmar",TRUE
+775,39,0.09402065,146,"Myanmar (Burma)",1984,"All","Myanmar",TRUE
+775,40,-0.05840648,150,"Myanmar (Burma)",1985,"All","Myanmar",TRUE
+775,41,0.06700049,151,"Myanmar (Burma)",1986,"All","Myanmar",TRUE
+775,42,-0.1309611,139,"Myanmar (Burma)",1987,"All","Myanmar",TRUE
+775,43,-0.2477286,132,"Myanmar (Burma)",1988,"All","Myanmar",TRUE
+775,44,-0.3986103,77,"Myanmar (Burma)",1989,"All","Myanmar",TRUE
+775,45,-0.3229671,85,"Myanmar (Burma)",1990,"All","Myanmar",TRUE
+775,46,-0.4307426,71,"Myanmar (Burma)",1991,"All","Myanmar",TRUE
+775,47,-0.8682711,71,"Myanmar (Burma)",1992,"All","Myanmar",TRUE
+775,48,-1.157129,60,"Myanmar (Burma)",1993,"All","Myanmar",TRUE
+775,49,-1.152974,4,"Myanmar (Burma)",1994,"All","Myanmar",TRUE
+775,50,-1.531422,80,"Myanmar (Burma)",1995,"All","Myanmar",TRUE
+775,51,-1.682332,72,"Myanmar (Burma)",1996,"All","Myanmar",TRUE
+775,52,-1.505077,72,"Myanmar (Burma)",1997,"All","Myanmar",TRUE
+775,53,-1.057921,64,"Myanmar (Burma)",1998,"All","Myanmar",TRUE
+775,54,-1.340186,68,"Myanmar (Burma)",1999,"All","Myanmar",TRUE
+775,55,-1.369382,67,"Myanmar (Burma)",2000,"All","Myanmar",TRUE
+775,56,-1.403949,68,"Myanmar (Burma)",2001,"All","Myanmar",TRUE
+775,57,-1.274037,74,"Myanmar (Burma)",2002,"All","Myanmar",TRUE
+775,58,-1.482567,75,"Myanmar (Burma)",2003,"All","Myanmar",TRUE
+775,59,-1.323424,71,"Myanmar (Burma)",2004,"All","Myanmar",TRUE
+775,60,-1.119268,73,"Myanmar (Burma)",2005,"All","Myanmar",TRUE
+775,61,-1.219376,90,"Myanmar (Burma)",2006,"All","Myanmar",TRUE
+775,62,-1.180168,79,"Myanmar (Burma)",2007,"All","Myanmar",TRUE
+775,63,-1.334652,76,"Myanmar (Burma)",2008,"All","Myanmar",TRUE
+775,64,-1.343642,62,"Myanmar (Burma)",2009,"All","Myanmar",TRUE
+775,65,-1.066657,67,"Myanmar (Burma)",2010,"All","Myanmar",TRUE
+775,66,-1.320165,54,"Myanmar (Burma)",2011,"All","Myanmar",TRUE
+775,67,-0.9500457,61,"Myanmar (Burma)",2012,"All","Myanmar",TRUE
+775,68,-1.235385,61,"Myanmar (Burma)",2013,"All","Myanmar",TRUE
+775,69,-0.9868319,79,"Myanmar (Burma)",2014,"All","Myanmar",TRUE
+775,70,-0.968403,73,"Myanmar (Burma)",2015,"All","Myanmar",TRUE
+775,71,-0.7506956,77,"Myanmar (Burma)",2016,"All","Myanmar",TRUE
+775,72,-0.7321876,70,"Myanmar (Burma)",2017,"All","Myanmar",TRUE
+775,73,-0.8032776,73,"Myanmar (Burma)",2018,"All","Myanmar",TRUE
+775,74,-0.7116446,72,"Myanmar (Burma)",2019,"All","Myanmar",TRUE
+800,22,0.3546649,57,"Thailand",1967,"All","Thailand",TRUE
+800,23,0.5259252,51,"Thailand",1968,"All","Thailand",TRUE
+800,24,0.4881419,43,"Thailand",1969,"All","Thailand",TRUE
+800,25,0.6442254,65,"Thailand",1970,"All","Thailand",TRUE
+800,26,0.4643523,117,"Thailand",1971,"All","Thailand",TRUE
+800,27,0.4368186,100,"Thailand",1972,"All","Thailand",TRUE
+800,28,0.1745481,88,"Thailand",1973,"All","Thailand",TRUE
+800,29,0.3423469,73,"Thailand",1974,"All","Thailand",TRUE
+800,30,0.2423471,69,"Thailand",1975,"All","Thailand",TRUE
+800,31,-0.1446095,87,"Thailand",1976,"All","Thailand",TRUE
+800,32,0.151146,91,"Thailand",1977,"All","Thailand",TRUE
+800,33,0.1643659,122,"Thailand",1978,"All","Thailand",TRUE
+800,34,0.2506509,121,"Thailand",1979,"All","Thailand",TRUE
+800,35,0.246384,101,"Thailand",1980,"All","Thailand",TRUE
+800,36,-0.1264268,131,"Thailand",1981,"All","Thailand",TRUE
+800,37,-0.03807093,156,"Thailand",1982,"All","Thailand",TRUE
+800,38,-0.08115638,146,"Thailand",1983,"All","Thailand",TRUE
+800,39,-0.1726899,148,"Thailand",1984,"All","Thailand",TRUE
+800,40,-0.091524,151,"Thailand",1985,"All","Thailand",TRUE
+800,41,-0.1797546,148,"Thailand",1986,"All","Thailand",TRUE
+800,42,-0.2641588,139,"Thailand",1987,"All","Thailand",TRUE
+800,43,-0.2744416,130,"Thailand",1988,"All","Thailand",TRUE
+800,44,-0.2767351,109,"Thailand",1989,"All","Thailand",TRUE
+800,45,-0.383924,84,"Thailand",1990,"All","Thailand",TRUE
+800,46,-0.5912393,75,"Thailand",1991,"All","Thailand",TRUE
+800,47,-0.5495932,73,"Thailand",1992,"All","Thailand",TRUE
+800,48,-0.6711116,65,"Thailand",1993,"All","Thailand",TRUE
+800,49,-0.693194,67,"Thailand",1994,"All","Thailand",TRUE
+800,50,-0.7522816,81,"Thailand",1995,"All","Thailand",TRUE
+800,51,-0.562214,72,"Thailand",1996,"All","Thailand",TRUE
+800,52,-0.668985,72,"Thailand",1997,"All","Thailand",TRUE
+800,53,-0.5041341,64,"Thailand",1998,"All","Thailand",TRUE
+800,54,-0.508704,68,"Thailand",1999,"All","Thailand",TRUE
+800,55,-0.311393,67,"Thailand",2000,"All","Thailand",TRUE
+800,56,-0.4135715,69,"Thailand",2001,"All","Thailand",TRUE
+800,57,-0.3735247,75,"Thailand",2002,"All","Thailand",TRUE
+800,58,-0.2600237,76,"Thailand",2003,"All","Thailand",TRUE
+800,59,-0.1215335,72,"Thailand",2004,"All","Thailand",TRUE
+800,60,-0.3190983,75,"Thailand",2005,"All","Thailand",TRUE
+800,61,-0.3110889,92,"Thailand",2006,"All","Thailand",TRUE
+800,62,-0.2573574,79,"Thailand",2007,"All","Thailand",TRUE
+800,63,-0.2962368,75,"Thailand",2008,"All","Thailand",TRUE
+800,64,-0.4997845,68,"Thailand",2009,"All","Thailand",TRUE
+800,65,-0.5595784,68,"Thailand",2010,"All","Thailand",TRUE
+800,66,-0.4313181,68,"Thailand",2011,"All","Thailand",TRUE
+800,67,-0.4520783,69,"Thailand",2012,"All","Thailand",TRUE
+800,68,-0.409941,64,"Thailand",2013,"All","Thailand",TRUE
+800,69,-0.4155141,80,"Thailand",2014,"All","Thailand",TRUE
+800,70,-0.4669127,73,"Thailand",2015,"All","Thailand",TRUE
+800,71,-0.474776,78,"Thailand",2016,"All","Thailand",TRUE
+800,72,-0.5645243,90,"Thailand",2017,"All","Thailand",TRUE
+800,73,-0.3568195,95,"Thailand",2018,"All","Thailand",TRUE
+800,74,-0.5108809,91,"Thailand",2019,"All","Thailand",TRUE
+811,22,-1.209357,42,"Cambodia",1967,"All","Cambodia",TRUE
+811,23,-1.534384,42,"Cambodia",1968,"All","Cambodia",TRUE
+811,24,-1.506618,27,"Cambodia",1969,"All","Cambodia",TRUE
+811,25,0.5008538,45,"Cambodia",1970,"All","Cambodia",TRUE
+811,26,0.6746581,85,"Cambodia",1971,"All","Cambodia",TRUE
+811,27,0.3628187,89,"Cambodia",1972,"All","Cambodia",TRUE
+811,28,0.6079318,72,"Cambodia",1973,"All","Cambodia",TRUE
+811,29,0.3015807,71,"Cambodia",1974,"All","Cambodia",TRUE
+811,30,-0.3373678,23,"Cambodia",1975,"All","Cambodia",TRUE
+811,31,-0.7220857,27,"Cambodia",1976,"All","Cambodia",TRUE
+811,33,-0.5965936,24,"Cambodia",1978,"All","Cambodia",TRUE
+811,34,-0.1568647,83,"Cambodia",1979,"All","Cambodia",TRUE
+811,35,0.04200968,76,"Cambodia",1980,"All","Cambodia",TRUE
+811,36,-0.02322949,108,"Cambodia",1981,"All","Cambodia",TRUE
+811,37,-0.004971991,136,"Cambodia",1982,"All","Cambodia",TRUE
+811,38,-0.01894437,129,"Cambodia",1983,"All","Cambodia",TRUE
+811,39,-0.114003,130,"Cambodia",1984,"All","Cambodia",TRUE
+811,40,0.003128131,139,"Cambodia",1985,"All","Cambodia",TRUE
+811,41,-0.1026582,128,"Cambodia",1986,"All","Cambodia",TRUE
+811,42,-0.3000398,118,"Cambodia",1987,"All","Cambodia",TRUE
+811,43,-0.4943669,109,"Cambodia",1988,"All","Cambodia",TRUE
+811,44,-0.4897726,106,"Cambodia",1989,"All","Cambodia",TRUE
+811,46,-0.5320443,29,"Cambodia",1991,"All","Cambodia",TRUE
+811,47,-0.5387518,1,"Cambodia",1992,"All","Cambodia",TRUE
+811,48,-0.5857509,45,"Cambodia",1993,"All","Cambodia",TRUE
+811,49,-0.1120619,56,"Cambodia",1994,"All","Cambodia",TRUE
+811,50,-0.05979776,56,"Cambodia",1995,"All","Cambodia",TRUE
+811,51,-0.1171533,71,"Cambodia",1996,"All","Cambodia",TRUE
+811,54,-0.874874,64,"Cambodia",1999,"All","Cambodia",TRUE
+811,55,-0.8204133,64,"Cambodia",2000,"All","Cambodia",TRUE
+811,56,-0.7865565,64,"Cambodia",2001,"All","Cambodia",TRUE
+811,57,-0.7616476,72,"Cambodia",2002,"All","Cambodia",TRUE
+811,58,-0.6785118,76,"Cambodia",2003,"All","Cambodia",TRUE
+811,59,-0.5849216,69,"Cambodia",2004,"All","Cambodia",TRUE
+811,60,-0.7145211,67,"Cambodia",2005,"All","Cambodia",TRUE
+811,61,-0.8991644,83,"Cambodia",2006,"All","Cambodia",TRUE
+811,62,-0.628271,74,"Cambodia",2007,"All","Cambodia",TRUE
+811,63,-0.6983578,72,"Cambodia",2008,"All","Cambodia",TRUE
+811,64,-0.6712793,51,"Cambodia",2009,"All","Cambodia",TRUE
+811,65,-0.7582411,65,"Cambodia",2010,"All","Cambodia",TRUE
+811,66,-0.8291119,61,"Cambodia",2011,"All","Cambodia",TRUE
+811,67,-0.6615037,68,"Cambodia",2012,"All","Cambodia",TRUE
+811,68,-0.7863701,60,"Cambodia",2013,"All","Cambodia",TRUE
+811,69,-0.7572216,77,"Cambodia",2014,"All","Cambodia",TRUE
+811,70,-0.968822,71,"Cambodia",2015,"All","Cambodia",TRUE
+811,71,-0.9027974,73,"Cambodia",2016,"All","Cambodia",TRUE
+811,72,-1.017854,89,"Cambodia",2017,"All","Cambodia",TRUE
+811,73,-1.311314,93,"Cambodia",2018,"All","Cambodia",TRUE
+811,74,-1.211804,89,"Cambodia",2019,"All","Cambodia",TRUE
+812,22,0.211606,46,"Laos",1967,"All","Laos",TRUE
+812,23,0.4228936,51,"Laos",1968,"All","Laos",TRUE
+812,24,0.399099,39,"Laos",1969,"All","Laos",TRUE
+812,25,0.2436515,53,"Laos",1970,"All","Laos",TRUE
+812,26,0.458163,92,"Laos",1971,"All","Laos",TRUE
+812,27,0.7412372,91,"Laos",1972,"All","Laos",TRUE
+812,28,0.2541093,70,"Laos",1973,"All","Laos",TRUE
+812,29,0.5541103,70,"Laos",1974,"All","Laos",TRUE
+812,30,-0.4062437,69,"Laos",1975,"All","Laos",TRUE
+812,31,-0.4775069,87,"Laos",1976,"All","Laos",TRUE
+812,32,-0.4087299,82,"Laos",1977,"All","Laos",TRUE
+812,33,-0.7505633,101,"Laos",1978,"All","Laos",TRUE
+812,34,-1.01873,99,"Laos",1979,"All","Laos",TRUE
+812,35,-1.722776,89,"Laos",1980,"All","Laos",TRUE
+812,36,-1.805302,120,"Laos",1981,"All","Laos",TRUE
+812,37,-1.71412,141,"Laos",1982,"All","Laos",TRUE
+812,38,-1.595446,133,"Laos",1983,"All","Laos",TRUE
+812,39,-1.563466,146,"Laos",1984,"All","Laos",TRUE
+812,40,-1.63855,138,"Laos",1985,"All","Laos",TRUE
+812,41,-1.531042,145,"Laos",1986,"All","Laos",TRUE
+812,42,-1.243326,137,"Laos",1987,"All","Laos",TRUE
+812,43,-0.8939703,134,"Laos",1988,"All","Laos",TRUE
+812,44,-0.700737,112,"Laos",1989,"All","Laos",TRUE
+812,45,-0.7428994,83,"Laos",1990,"All","Laos",TRUE
+812,46,-0.85334,73,"Laos",1991,"All","Laos",TRUE
+812,47,-1.014907,70,"Laos",1992,"All","Laos",TRUE
+812,48,-1.153396,60,"Laos",1993,"All","Laos",TRUE
+812,49,-1.394321,56,"Laos",1994,"All","Laos",TRUE
+812,50,-1.204227,72,"Laos",1995,"All","Laos",TRUE
+812,51,-1.145742,63,"Laos",1996,"All","Laos",TRUE
+812,52,-1.303954,63,"Laos",1997,"All","Laos",TRUE
+812,53,-1.131467,55,"Laos",1998,"All","Laos",TRUE
+812,54,-1.16003,62,"Laos",1999,"All","Laos",TRUE
+812,55,-1.175736,63,"Laos",2000,"All","Laos",TRUE
+812,56,-1.310367,61,"Laos",2001,"All","Laos",TRUE
+812,57,-1.077704,63,"Laos",2002,"All","Laos",TRUE
+812,58,-0.7309938,69,"Laos",2003,"All","Laos",TRUE
+812,59,-0.8633823,68,"Laos",2004,"All","Laos",TRUE
+812,60,-0.706509,70,"Laos",2005,"All","Laos",TRUE
+812,61,-0.9057626,82,"Laos",2006,"All","Laos",TRUE
+812,62,-0.770207,74,"Laos",2007,"All","Laos",TRUE
+812,63,-0.7844991,70,"Laos",2008,"All","Laos",TRUE
+812,64,-0.9056227,63,"Laos",2009,"All","Laos",TRUE
+812,65,-0.8596067,66,"Laos",2010,"All","Laos",TRUE
+812,66,-0.9556472,62,"Laos",2011,"All","Laos",TRUE
+812,67,-0.7483954,67,"Laos",2012,"All","Laos",TRUE
+812,68,-0.8911476,62,"Laos",2013,"All","Laos",TRUE
+812,69,-1.095788,77,"Laos",2014,"All","Laos",TRUE
+812,70,-1.198651,71,"Laos",2015,"All","Laos",TRUE
+812,71,-0.9615447,74,"Laos",2016,"All","Laos",TRUE
+812,72,-1.184827,88,"Laos",2017,"All","Laos",TRUE
+812,73,-1.071351,94,"Laos",2018,"All","Laos",TRUE
+812,74,-0.9003623,91,"Laos",2019,"All","Laos",TRUE
+816,32,-1.118072,65,"Vietnam",1977,"All","Vietnam",TRUE
+816,33,-0.9167195,84,"Vietnam",1978,"All","Vietnam",TRUE
+816,34,-1.241613,99,"Vietnam",1979,"All","Vietnam",TRUE
+816,35,-1.527004,89,"Vietnam",1980,"All","Vietnam",TRUE
+816,36,-1.778034,122,"Vietnam",1981,"All","Vietnam",TRUE
+816,37,-1.645482,147,"Vietnam",1982,"All","Vietnam",TRUE
+816,38,-1.619061,139,"Vietnam",1983,"All","Vietnam",TRUE
+816,39,-1.458783,145,"Vietnam",1984,"All","Vietnam",TRUE
+816,40,-1.589165,142,"Vietnam",1985,"All","Vietnam",TRUE
+816,41,-1.527537,145,"Vietnam",1986,"All","Vietnam",TRUE
+816,42,-1.223249,142,"Vietnam",1987,"All","Vietnam",TRUE
+816,43,-1.293178,134,"Vietnam",1988,"All","Vietnam",TRUE
+816,44,-0.7832253,114,"Vietnam",1989,"All","Vietnam",TRUE
+816,45,-0.9032005,84,"Vietnam",1990,"All","Vietnam",TRUE
+816,46,-1.041696,73,"Vietnam",1991,"All","Vietnam",TRUE
+816,47,-1.299378,73,"Vietnam",1992,"All","Vietnam",TRUE
+816,48,-1.610302,64,"Vietnam",1993,"All","Vietnam",TRUE
+816,49,-1.658764,61,"Vietnam",1994,"All","Vietnam",TRUE
+816,50,-1.545748,74,"Vietnam",1995,"All","Vietnam",TRUE
+816,51,-1.421923,66,"Vietnam",1996,"All","Vietnam",TRUE
+816,52,-1.55807,63,"Vietnam",1997,"All","Vietnam",TRUE
+816,53,-1.311989,55,"Vietnam",1998,"All","Vietnam",TRUE
+816,54,-1.474536,60,"Vietnam",1999,"All","Vietnam",TRUE
+816,55,-1.298028,62,"Vietnam",2000,"All","Vietnam",TRUE
+816,56,-1.380804,61,"Vietnam",2001,"All","Vietnam",TRUE
+816,57,-1.425747,70,"Vietnam",2002,"All","Vietnam",TRUE
+816,58,-1.532455,71,"Vietnam",2003,"All","Vietnam",TRUE
+816,59,-1.485679,66,"Vietnam",2004,"All","Vietnam",TRUE
+816,60,-1.405593,67,"Vietnam",2005,"All","Vietnam",TRUE
+816,61,-1.417416,89,"Vietnam",2006,"All","Vietnam",TRUE
+816,62,-1.223048,76,"Vietnam",2007,"All","Vietnam",TRUE
+816,63,-1.290977,71,"Vietnam",2008,"All","Vietnam",TRUE
+816,64,-1.297024,65,"Vietnam",2009,"All","Vietnam",TRUE
+816,65,-1.294863,66,"Vietnam",2010,"All","Vietnam",TRUE
+816,66,-1.226559,66,"Vietnam",2011,"All","Vietnam",TRUE
+816,67,-1.144086,68,"Vietnam",2012,"All","Vietnam",TRUE
+816,68,-1.118149,62,"Vietnam",2013,"All","Vietnam",TRUE
+816,69,-1.113908,78,"Vietnam",2014,"All","Vietnam",TRUE
+816,70,-1.085462,69,"Vietnam",2015,"All","Vietnam",TRUE
+816,71,-1.103752,74,"Vietnam",2016,"All","Vietnam",TRUE
+816,72,-0.9702065,89,"Vietnam",2017,"All","Vietnam",TRUE
+816,73,-0.8979024,94,"Vietnam",2018,"All","Vietnam",TRUE
+816,74,-0.8158486,89,"Vietnam",2019,"All","Vietnam",TRUE
+820,22,-0.2067994,55,"Malaysia",1967,"All","Malaysia",TRUE
+820,23,0.5581455,51,"Malaysia",1968,"All","Malaysia",TRUE
+820,24,0.3651082,44,"Malaysia",1969,"All","Malaysia",TRUE
+820,25,0.03083723,67,"Malaysia",1970,"All","Malaysia",TRUE
+820,26,-0.2214808,116,"Malaysia",1971,"All","Malaysia",TRUE
+820,27,-0.1489833,100,"Malaysia",1972,"All","Malaysia",TRUE
+820,28,-0.0296681,90,"Malaysia",1973,"All","Malaysia",TRUE
+820,29,0.1544201,73,"Malaysia",1974,"All","Malaysia",TRUE
+820,30,-0.08858551,69,"Malaysia",1975,"All","Malaysia",TRUE
+820,31,-0.1284095,87,"Malaysia",1976,"All","Malaysia",TRUE
+820,32,0.01341196,91,"Malaysia",1977,"All","Malaysia",TRUE
+820,33,-0.1295591,127,"Malaysia",1978,"All","Malaysia",TRUE
+820,34,-0.04905508,122,"Malaysia",1979,"All","Malaysia",TRUE
+820,35,-0.07671338,102,"Malaysia",1980,"All","Malaysia",TRUE
+820,36,-0.09054285,134,"Malaysia",1981,"All","Malaysia",TRUE
+820,37,-0.05159874,158,"Malaysia",1982,"All","Malaysia",TRUE
+820,38,-0.1692587,149,"Malaysia",1983,"All","Malaysia",TRUE
+820,39,-0.2104072,148,"Malaysia",1984,"All","Malaysia",TRUE
+820,40,-0.08585492,153,"Malaysia",1985,"All","Malaysia",TRUE
+820,41,-0.2829036,153,"Malaysia",1986,"All","Malaysia",TRUE
+820,42,-0.2992736,144,"Malaysia",1987,"All","Malaysia",TRUE
+820,43,-0.3041643,135,"Malaysia",1988,"All","Malaysia",TRUE
+820,44,-0.5607435,115,"Malaysia",1989,"All","Malaysia",TRUE
+820,45,-0.7447847,86,"Malaysia",1990,"All","Malaysia",TRUE
+820,46,-1.265489,75,"Malaysia",1991,"All","Malaysia",TRUE
+820,47,-1.134028,74,"Malaysia",1992,"All","Malaysia",TRUE
+820,48,-1.144714,65,"Malaysia",1993,"All","Malaysia",TRUE
+820,49,-0.825638,66,"Malaysia",1994,"All","Malaysia",TRUE
+820,50,-0.7081681,81,"Malaysia",1995,"All","Malaysia",TRUE
+820,51,-0.709416,74,"Malaysia",1996,"All","Malaysia",TRUE
+820,52,-0.7307247,72,"Malaysia",1997,"All","Malaysia",TRUE
+820,53,-0.6943839,64,"Malaysia",1998,"All","Malaysia",TRUE
+820,54,-0.6770912,68,"Malaysia",1999,"All","Malaysia",TRUE
+820,55,-0.7170871,67,"Malaysia",2000,"All","Malaysia",TRUE
+820,56,-0.9707743,67,"Malaysia",2001,"All","Malaysia",TRUE
+820,57,-0.8086235,74,"Malaysia",2002,"All","Malaysia",TRUE
+820,58,-1.019912,76,"Malaysia",2003,"All","Malaysia",TRUE
+820,59,-0.8351454,72,"Malaysia",2004,"All","Malaysia",TRUE
+820,60,-1.141909,75,"Malaysia",2005,"All","Malaysia",TRUE
+820,61,-0.8188019,92,"Malaysia",2006,"All","Malaysia",TRUE
+820,62,-1.150309,79,"Malaysia",2007,"All","Malaysia",TRUE
+820,63,-0.9006664,75,"Malaysia",2008,"All","Malaysia",TRUE
+820,64,-1.085097,67,"Malaysia",2009,"All","Malaysia",TRUE
+820,65,-1.214377,68,"Malaysia",2010,"All","Malaysia",TRUE
+820,66,-0.7337141,68,"Malaysia",2011,"All","Malaysia",TRUE
+820,67,-0.8216565,69,"Malaysia",2012,"All","Malaysia",TRUE
+820,68,-0.6120587,64,"Malaysia",2013,"All","Malaysia",TRUE
+820,69,-0.8141416,80,"Malaysia",2014,"All","Malaysia",TRUE
+820,70,-0.7539126,73,"Malaysia",2015,"All","Malaysia",TRUE
+820,71,-0.7258002,76,"Malaysia",2016,"All","Malaysia",TRUE
+820,72,-0.7285891,87,"Malaysia",2017,"All","Malaysia",TRUE
+820,73,-0.707167,94,"Malaysia",2018,"All","Malaysia",TRUE
+820,74,-0.7350401,91,"Malaysia",2019,"All","Malaysia",TRUE
+830,22,-0.2541428,46,"Singapore",1967,"All","Singapore",TRUE
+830,23,-0.06829479,51,"Singapore",1968,"All","Singapore",TRUE
+830,24,0.2169616,38,"Singapore",1969,"All","Singapore",TRUE
+830,25,0.1826552,64,"Singapore",1970,"All","Singapore",TRUE
+830,26,0.2542822,119,"Singapore",1971,"All","Singapore",TRUE
+830,27,0.3251622,96,"Singapore",1972,"All","Singapore",TRUE
+830,28,0.08743088,90,"Singapore",1973,"All","Singapore",TRUE
+830,29,0.2636038,71,"Singapore",1974,"All","Singapore",TRUE
+830,30,0.2437402,66,"Singapore",1975,"All","Singapore",TRUE
+830,31,0.04754302,83,"Singapore",1976,"All","Singapore",TRUE
+830,32,0.2098513,90,"Singapore",1977,"All","Singapore",TRUE
+830,33,0.3208412,125,"Singapore",1978,"All","Singapore",TRUE
+830,34,0.4022012,119,"Singapore",1979,"All","Singapore",TRUE
+830,35,0.3073592,99,"Singapore",1980,"All","Singapore",TRUE
+830,36,0.2668015,121,"Singapore",1981,"All","Singapore",TRUE
+830,37,0.2638299,148,"Singapore",1982,"All","Singapore",TRUE
+830,38,0.08397244,142,"Singapore",1983,"All","Singapore",TRUE
+830,39,-0.05343077,139,"Singapore",1984,"All","Singapore",TRUE
+830,40,-0.01521441,139,"Singapore",1985,"All","Singapore",TRUE
+830,41,0.06272764,138,"Singapore",1986,"All","Singapore",TRUE
+830,42,0.07603314,136,"Singapore",1987,"All","Singapore",TRUE
+830,43,0.01409959,129,"Singapore",1988,"All","Singapore",TRUE
+830,44,-0.1204484,112,"Singapore",1989,"All","Singapore",TRUE
+830,45,-0.2221511,86,"Singapore",1990,"All","Singapore",TRUE
+830,46,-0.4305252,75,"Singapore",1991,"All","Singapore",TRUE
+830,47,-0.1674723,74,"Singapore",1992,"All","Singapore",TRUE
+830,48,-0.2065345,65,"Singapore",1993,"All","Singapore",TRUE
+830,49,-0.2829695,68,"Singapore",1994,"All","Singapore",TRUE
+830,50,-0.3253058,81,"Singapore",1995,"All","Singapore",TRUE
+830,51,-0.4127312,74,"Singapore",1996,"All","Singapore",TRUE
+830,52,-0.5714862,72,"Singapore",1997,"All","Singapore",TRUE
+830,53,-0.2649548,64,"Singapore",1998,"All","Singapore",TRUE
+830,54,-0.3553609,67,"Singapore",1999,"All","Singapore",TRUE
+830,55,-0.1969106,67,"Singapore",2000,"All","Singapore",TRUE
+830,56,-0.2843417,68,"Singapore",2001,"All","Singapore",TRUE
+830,57,-0.1752234,74,"Singapore",2002,"All","Singapore",TRUE
+830,58,-0.181328,76,"Singapore",2003,"All","Singapore",TRUE
+830,59,-0.2258122,71,"Singapore",2004,"All","Singapore",TRUE
+830,60,-0.3244231,75,"Singapore",2005,"All","Singapore",TRUE
+830,61,-0.2509605,92,"Singapore",2006,"All","Singapore",TRUE
+830,62,-0.2576967,79,"Singapore",2007,"All","Singapore",TRUE
+830,63,-0.3819349,76,"Singapore",2008,"All","Singapore",TRUE
+830,64,-0.4208825,68,"Singapore",2009,"All","Singapore",TRUE
+830,65,-0.4830081,68,"Singapore",2010,"All","Singapore",TRUE
+830,66,-0.7073248,68,"Singapore",2011,"All","Singapore",TRUE
+830,67,-0.4183676,69,"Singapore",2012,"All","Singapore",TRUE
+830,68,-0.6413542,64,"Singapore",2013,"All","Singapore",TRUE
+830,69,-0.4512846,80,"Singapore",2014,"All","Singapore",TRUE
+830,70,-0.6674758,73,"Singapore",2015,"All","Singapore",TRUE
+830,71,-0.6288597,78,"Singapore",2016,"All","Singapore",TRUE
+830,72,-0.7473469,90,"Singapore",2017,"All","Singapore",TRUE
+830,73,-0.4258829,95,"Singapore",2018,"All","Singapore",TRUE
+830,74,-0.4694771,91,"Singapore",2019,"All","Singapore",TRUE
+835,39,-0.08972363,146,"Brunei",1984,"All","Brunei",TRUE
+835,40,-0.1408778,148,"Brunei",1985,"All","Brunei",TRUE
+835,41,-0.1691447,150,"Brunei",1986,"All","Brunei",TRUE
+835,42,-0.2664647,141,"Brunei",1987,"All","Brunei",TRUE
+835,43,-0.3529251,134,"Brunei",1988,"All","Brunei",TRUE
+835,44,-0.3431976,113,"Brunei",1989,"All","Brunei",TRUE
+835,45,-0.5349136,85,"Brunei",1990,"All","Brunei",TRUE
+835,46,-0.9457799,74,"Brunei",1991,"All","Brunei",TRUE
+835,47,-0.8762826,73,"Brunei",1992,"All","Brunei",TRUE
+835,48,-0.9291922,64,"Brunei",1993,"All","Brunei",TRUE
+835,49,-0.8449204,66,"Brunei",1994,"All","Brunei",TRUE
+835,50,-0.9581053,81,"Brunei",1995,"All","Brunei",TRUE
+835,51,-0.7598371,74,"Brunei",1996,"All","Brunei",TRUE
+835,52,-0.6829524,72,"Brunei",1997,"All","Brunei",TRUE
+835,53,-0.8435711,64,"Brunei",1998,"All","Brunei",TRUE
+835,54,-0.8771919,66,"Brunei",1999,"All","Brunei",TRUE
+835,55,-0.8651316,67,"Brunei",2000,"All","Brunei",TRUE
+835,56,-0.9916943,67,"Brunei",2001,"All","Brunei",TRUE
+835,57,-0.8080824,74,"Brunei",2002,"All","Brunei",TRUE
+835,58,-1.183856,76,"Brunei",2003,"All","Brunei",TRUE
+835,59,-0.7775941,72,"Brunei",2004,"All","Brunei",TRUE
+835,60,-0.9764973,75,"Brunei",2005,"All","Brunei",TRUE
+835,61,-0.9578211,91,"Brunei",2006,"All","Brunei",TRUE
+835,62,-0.6129482,79,"Brunei",2007,"All","Brunei",TRUE
+835,63,-0.5879683,76,"Brunei",2008,"All","Brunei",TRUE
+835,64,-0.8986147,68,"Brunei",2009,"All","Brunei",TRUE
+835,65,-0.9992294,68,"Brunei",2010,"All","Brunei",TRUE
+835,66,-0.9469778,66,"Brunei",2011,"All","Brunei",TRUE
+835,67,-0.8864694,69,"Brunei",2012,"All","Brunei",TRUE
+835,68,-0.9862823,64,"Brunei",2013,"All","Brunei",TRUE
+835,69,-1.037055,79,"Brunei",2014,"All","Brunei",TRUE
+835,70,-1.049026,73,"Brunei",2015,"All","Brunei",TRUE
+835,71,-0.9164218,77,"Brunei",2016,"All","Brunei",TRUE
+835,72,-0.9267896,90,"Brunei",2017,"All","Brunei",TRUE
+835,73,-0.9243476,94,"Brunei",2018,"All","Brunei",TRUE
+835,74,-0.8108705,91,"Brunei",2019,"All","Brunei",TRUE
+840,22,0.7157356,57,"Philippines",1967,"All","Philippines",TRUE
+840,23,0.3817123,51,"Philippines",1968,"All","Philippines",TRUE
+840,24,0.4316826,43,"Philippines",1969,"All","Philippines",TRUE
+840,25,0.4174802,67,"Philippines",1970,"All","Philippines",TRUE
+840,26,0.456761,109,"Philippines",1971,"All","Philippines",TRUE
+840,27,0.478549,100,"Philippines",1972,"All","Philippines",TRUE
+840,28,0.1290621,87,"Philippines",1973,"All","Philippines",TRUE
+840,29,0.2499495,73,"Philippines",1974,"All","Philippines",TRUE
+840,30,0.2163237,69,"Philippines",1975,"All","Philippines",TRUE
+840,31,-0.1537035,87,"Philippines",1976,"All","Philippines",TRUE
+840,32,0.07869225,90,"Philippines",1977,"All","Philippines",TRUE
+840,33,0.05361505,127,"Philippines",1978,"All","Philippines",TRUE
+840,34,0.01516373,122,"Philippines",1979,"All","Philippines",TRUE
+840,35,0.002164554,103,"Philippines",1980,"All","Philippines",TRUE
+840,36,-0.1584312,133,"Philippines",1981,"All","Philippines",TRUE
+840,37,0.1908585,157,"Philippines",1982,"All","Philippines",TRUE
+840,38,0.257344,147,"Philippines",1983,"All","Philippines",TRUE
+840,39,0.006154042,142,"Philippines",1984,"All","Philippines",TRUE
+840,40,-0.01571149,141,"Philippines",1985,"All","Philippines",TRUE
+840,41,-0.1589853,153,"Philippines",1986,"All","Philippines",TRUE
+840,42,-0.2068305,141,"Philippines",1987,"All","Philippines",TRUE
+840,43,-0.02731405,134,"Philippines",1988,"All","Philippines",TRUE
+840,44,-0.1117196,116,"Philippines",1989,"All","Philippines",TRUE
+840,45,-0.6069349,86,"Philippines",1990,"All","Philippines",TRUE
+840,46,-0.7452802,73,"Philippines",1991,"All","Philippines",TRUE
+840,47,-0.4371732,74,"Philippines",1992,"All","Philippines",TRUE
+840,48,-0.7014838,65,"Philippines",1993,"All","Philippines",TRUE
+840,49,-0.5142468,68,"Philippines",1994,"All","Philippines",TRUE
+840,50,-0.5233329,81,"Philippines",1995,"All","Philippines",TRUE
+840,51,-0.6307118,73,"Philippines",1996,"All","Philippines",TRUE
+840,52,-0.8619583,72,"Philippines",1997,"All","Philippines",TRUE
+840,53,-0.8715408,64,"Philippines",1998,"All","Philippines",TRUE
+840,54,-0.8306408,66,"Philippines",1999,"All","Philippines",TRUE
+840,55,-0.4823561,66,"Philippines",2000,"All","Philippines",TRUE
+840,56,-0.3840552,69,"Philippines",2001,"All","Philippines",TRUE
+840,57,-0.4697146,75,"Philippines",2002,"All","Philippines",TRUE
+840,58,-0.5199551,75,"Philippines",2003,"All","Philippines",TRUE
+840,59,-0.4303349,71,"Philippines",2004,"All","Philippines",TRUE
+840,60,-0.4571134,74,"Philippines",2005,"All","Philippines",TRUE
+840,61,-0.482785,90,"Philippines",2006,"All","Philippines",TRUE
+840,62,-0.4480078,79,"Philippines",2007,"All","Philippines",TRUE
+840,63,-0.4979418,74,"Philippines",2008,"All","Philippines",TRUE
+840,64,-0.5049389,65,"Philippines",2009,"All","Philippines",TRUE
+840,65,-0.5070622,68,"Philippines",2010,"All","Philippines",TRUE
+840,66,-0.3497964,67,"Philippines",2011,"All","Philippines",TRUE
+840,67,-0.4531034,69,"Philippines",2012,"All","Philippines",TRUE
+840,68,-0.5136665,63,"Philippines",2013,"All","Philippines",TRUE
+840,69,-0.4874269,78,"Philippines",2014,"All","Philippines",TRUE
+840,70,-0.5061276,73,"Philippines",2015,"All","Philippines",TRUE
+840,71,-0.7333866,78,"Philippines",2016,"All","Philippines",TRUE
+840,72,-0.8038916,90,"Philippines",2017,"All","Philippines",TRUE
+840,73,-0.345573,95,"Philippines",2018,"All","Philippines",TRUE
+840,74,-0.4390589,91,"Philippines",2019,"All","Philippines",TRUE
+850,22,-0.6729516,57,"Indonesia",1967,"All","Indonesia",TRUE
+850,23,-0.2796447,47,"Indonesia",1968,"All","Indonesia",TRUE
+850,24,-0.5244121,42,"Indonesia",1969,"All","Indonesia",TRUE
+850,25,-0.2869801,65,"Indonesia",1970,"All","Indonesia",TRUE
+850,26,-0.2521065,120,"Indonesia",1971,"All","Indonesia",TRUE
+850,27,-0.252745,101,"Indonesia",1972,"All","Indonesia",TRUE
+850,28,-0.0760203,91,"Indonesia",1973,"All","Indonesia",TRUE
+850,29,0.06495108,73,"Indonesia",1974,"All","Indonesia",TRUE
+850,30,-0.08496589,68,"Indonesia",1975,"All","Indonesia",TRUE
+850,31,-0.1538655,86,"Indonesia",1976,"All","Indonesia",TRUE
+850,32,-0.06446184,91,"Indonesia",1977,"All","Indonesia",TRUE
+850,33,-0.09862379,127,"Indonesia",1978,"All","Indonesia",TRUE
+850,34,-0.06708162,122,"Indonesia",1979,"All","Indonesia",TRUE
+850,35,-0.2135397,103,"Indonesia",1980,"All","Indonesia",TRUE
+850,36,-0.3144702,134,"Indonesia",1981,"All","Indonesia",TRUE
+850,37,-0.3500995,158,"Indonesia",1982,"All","Indonesia",TRUE
+850,38,-0.2669928,146,"Indonesia",1983,"All","Indonesia",TRUE
+850,39,-0.276008,148,"Indonesia",1984,"All","Indonesia",TRUE
+850,40,-0.4268037,153,"Indonesia",1985,"All","Indonesia",TRUE
+850,41,-0.5426143,151,"Indonesia",1986,"All","Indonesia",TRUE
+850,42,-0.5914532,142,"Indonesia",1987,"All","Indonesia",TRUE
+850,43,-0.670573,136,"Indonesia",1988,"All","Indonesia",TRUE
+850,44,-0.7345786,115,"Indonesia",1989,"All","Indonesia",TRUE
+850,45,-0.8122087,86,"Indonesia",1990,"All","Indonesia",TRUE
+850,46,-1.142011,74,"Indonesia",1991,"All","Indonesia",TRUE
+850,47,-1.113237,74,"Indonesia",1992,"All","Indonesia",TRUE
+850,48,-1.373436,65,"Indonesia",1993,"All","Indonesia",TRUE
+850,49,-1.392622,67,"Indonesia",1994,"All","Indonesia",TRUE
+850,50,-1.364504,79,"Indonesia",1995,"All","Indonesia",TRUE
+850,51,-1.464736,72,"Indonesia",1996,"All","Indonesia",TRUE
+850,52,-1.29599,72,"Indonesia",1997,"All","Indonesia",TRUE
+850,53,-0.9823068,64,"Indonesia",1998,"All","Indonesia",TRUE
+850,54,-0.9142857,66,"Indonesia",1999,"All","Indonesia",TRUE
+850,55,-0.9440358,66,"Indonesia",2000,"All","Indonesia",TRUE
+850,56,-0.9634497,68,"Indonesia",2001,"All","Indonesia",TRUE
+850,57,-0.9641271,74,"Indonesia",2002,"All","Indonesia",TRUE
+850,58,-0.8835887,76,"Indonesia",2003,"All","Indonesia",TRUE
+850,59,-1.092105,72,"Indonesia",2004,"All","Indonesia",TRUE
+850,60,-1.189872,74,"Indonesia",2005,"All","Indonesia",TRUE
+850,61,-1.230157,92,"Indonesia",2006,"All","Indonesia",TRUE
+850,62,-1.073251,79,"Indonesia",2007,"All","Indonesia",TRUE
+850,63,-1.041075,76,"Indonesia",2008,"All","Indonesia",TRUE
+850,64,-1.003387,68,"Indonesia",2009,"All","Indonesia",TRUE
+850,65,-1.171411,68,"Indonesia",2010,"All","Indonesia",TRUE
+850,66,-0.7867208,68,"Indonesia",2011,"All","Indonesia",TRUE
+850,67,-0.9327182,69,"Indonesia",2012,"All","Indonesia",TRUE
+850,68,-0.92844,64,"Indonesia",2013,"All","Indonesia",TRUE
+850,69,-1.124931,80,"Indonesia",2014,"All","Indonesia",TRUE
+850,70,-1.053798,73,"Indonesia",2015,"All","Indonesia",TRUE
+850,71,-0.9989701,78,"Indonesia",2016,"All","Indonesia",TRUE
+850,72,-1.031272,90,"Indonesia",2017,"All","Indonesia",TRUE
+850,73,-1.09071,95,"Indonesia",2018,"All","Indonesia",TRUE
+850,74,-0.8749062,91,"Indonesia",2019,"All","Indonesia",TRUE
